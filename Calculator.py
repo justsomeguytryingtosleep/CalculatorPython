@@ -1,5 +1,5 @@
-value1 = int( input( "Erste zahl eingeben" ) )
-value2 = int( input( "Zweite zahl eingeben" ) )
+value1 = int( input( "First Number" ) )
+value2 = int( input( "Second Number" ) )
 
 print(value1 + value2)
 
